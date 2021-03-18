@@ -1,0 +1,33 @@
+// Problem 1
+// Where did JavaScript get its name?
+From the hype of the programming language Java, someone thought it would be clever to name it JavaScript to make it popular. 
+
+// Problem 2
+// Name a prominent JavaScript framework used outside the browser?
+Node.js
+
+// Problem 3
+// Write an expression using JavaScript values that spells your full name. Use a variable, a string, and an operator. Be creative!
+var name = 'M' + 'i' + 'c' + 'h' + 'e' + 'l' + 'l' + 'e' + ' ' + 'Medina'
+
+// Problem 4
+// True or False: 23 == "23"
+True 
+
+// Problem 5
+// True or False: "" == false
+True
+
+// Problem 6
+// What does `Infinity is ${5/0}` evaluate to?
+'Infinity is Infinity'
+
+// Problem 7
+// What does the statement 501 % 100 evaluate to and what is the % operator called?
+501 % 100 == 1 
+% is remainder 
+
+// Problem 8
+// What does the following expression evaluate to?
+// "apples " + (false ? "apple" : (true ? "and" : "peaches")) + " " + ("ba" + "" + 3 / "a" + "as")
+'apples and baNaNas'
